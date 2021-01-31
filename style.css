@@ -151,7 +151,7 @@ a.active {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: rgb(29, 171, 236);
+  color: rgb(2, 28, 41);
 }
 #crossing-sign {
   position: absolute;
@@ -175,6 +175,6 @@ a.active {
 .billing-area > * {
   margin: 20px 0;
 }
-#booking-confirm h2 {
-  color: limegreen;
+#booking-confirm h1 {
+  color: rgb(52, 189, 136);
 }
